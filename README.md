@@ -16,9 +16,9 @@ replace.bat
 ### Notes
 
 - The script depends on the following files in the specified folders:
-  - **Content Downloader**
-  - **DataDownloader**
-  - **Datawall Designer**
-  - **WavetecCMS**
+  - **C:\IDSSystem\Content Downloader**
+  - **C:\IDSSystem\DataDownloader**
+  - **C:\IDSSystem\Datawall Designer**
+  - **C:\IDSSystem\WavetecCMS**
 
 Ensure that these folders exist with the necessary `.conf` files before running the script.
